@@ -73,9 +73,9 @@ main p{
           width: 400px;
           padding: 10px;
           float: right;
-          position: fixed;
+          position: relative;
           right: 30px;
-          top: 220px;
+          top: -60px;
 }
 
 main img{
